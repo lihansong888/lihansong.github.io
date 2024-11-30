@@ -1,4 +1,5 @@
-
+台湾频道,#genre#
+台湾星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 
 
 央视频道,#genre#
